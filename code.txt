@@ -1,0 +1,14 @@
+images
+
+
+detectDNN('./data/img.jpg')
+detectDNN('./data/negative.jpg')
+detectDNN('./data/tony.jpg')
+detectDNN('./data/group.jpg')
+
+
+
+Video
+
+detectVidDNN('./data/scientist.mp4')
+detectVidDNN('./data/sample.mp4')
