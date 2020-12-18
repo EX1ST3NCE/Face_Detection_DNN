@@ -53,4 +53,4 @@ detectVidDNN('./data/sample.mp4')
 
 ### Results 
 
-![alt text](https://github.com/prasadnitin05/Face_Detection_DNN/results/master/fig1.png?raw=true)
+![alt text](https://github.com/prasadnitin05/Face_Detection_DNN/blob/master/results/fig1.png?raw=true)
