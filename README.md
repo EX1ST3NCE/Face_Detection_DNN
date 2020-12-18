@@ -55,13 +55,13 @@ detectVidDNN('./data/sample.mp4')
 
 - Non-Frontal Face Detection in images
 
-![alt text](https://github.com/prasadnitin05/Face_Detection_DNN/blob/master/results/fig1.png?raw=true)
+![alt Detection of Non-Frontal Face from an image](https://github.com/prasadnitin05/Face_Detection_DNN/blob/master/results/fig1.png?raw=true)
 
-![alt text](https://github.com/prasadnitin05/Face_Detection_DNN/blob/master/results/fig2.png?raw=true)
+![alt Face detection of people from different age groups](https://github.com/prasadnitin05/Face_Detection_DNN/blob/master/results/fig2.png?raw=true)
 
-![alt text](https://github.com/prasadnitin05/Face_Detection_DNN/blob/master/results/fig5.png?raw=true)
+![alt Detection of Non-Frontal Face from an image](https://github.com/prasadnitin05/Face_Detection_DNN/blob/master/results/fig5.png?raw=true)
 
-![alt text](https://github.com/prasadnitin05/Face_Detection_DNN/blob/master/results/out_pos.png?raw=true)
+![alt Detection of Non-Frontal Face from an image](https://github.com/prasadnitin05/Face_Detection_DNN/blob/master/results/out_pos.png?raw=true)
 
-![alt text](https://github.com/prasadnitin05/Face_Detection_DNN/blob/master/results/fig3.png?raw=true)
+![alt Detection of Non-Frontal Face from an video](https://github.com/prasadnitin05/Face_Detection_DNN/blob/master/results/fig3.png?raw=true)
 
