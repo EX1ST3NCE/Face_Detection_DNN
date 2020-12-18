@@ -63,7 +63,5 @@ detectVidDNN('./data/sample.mp4')
 
 ![alt text](https://github.com/prasadnitin05/Face_Detection_DNN/blob/master/results/out_pos.png?raw=true)
 
-- Non-Frontal Face Detection video
-
 ![alt text](https://github.com/prasadnitin05/Face_Detection_DNN/blob/master/results/fig3.png?raw=true)
 
