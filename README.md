@@ -1,6 +1,8 @@
 # Frontal and Non-Frontal Face Detection using Deep Neural Networks (DNN)
 
 Research Paper: http://www.riejournal.com/article_122236.html
+
+
 A fast and accurate face detection with OpenCV using a pre-trained deep learning face detector model shipped with the library. Two files are required for using OpenCV's deep neural network module with Caffe models.
 
 - The .prototxt file (define the model architecture i.e., the layers themselves)
